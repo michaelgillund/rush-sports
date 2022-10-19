@@ -7,18 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E523BCB828ED5803007FD456 /* DynamicTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = E523BCB728ED5803007FD456 /* DynamicTabBar.swift */; };
+		E537B51F28F600A500306F7C /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E537B51E28F600A500306F7C /* HomeView.swift */; };
+		E537B52128F611B900306F7C /* Dates.swift in Sources */ = {isa = PBXBuildFile; fileRef = E537B52028F611B900306F7C /* Dates.swift */; };
+		E537B52328F6291100306F7C /* TabsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E537B52228F6291100306F7C /* TabsView.swift */; };
+		E5A4F64128FF9D340080C714 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5A4F64028FF9D340080C714 /* PageView.swift */; };
+		E5CBF3BA28FCF1720000F1C7 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5CBF3B928FCF1720000F1C7 /* HeaderView.swift */; };
+		E5CBF3BC28FCF5530000F1C7 /* ViewStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5CBF3BB28FCF5530000F1C7 /* ViewStack.swift */; };
 		E5D5CDA128ED39810004BBA6 /* RushApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5D5CDA028ED39810004BBA6 /* RushApp.swift */; };
 		E5D5CDA328ED39810004BBA6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5D5CDA228ED39810004BBA6 /* ContentView.swift */; };
 		E5D5CDA528ED39860004BBA6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5D5CDA428ED39860004BBA6 /* Assets.xcassets */; };
 		E5D5CDA828ED39870004BBA6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5D5CDA728ED39870004BBA6 /* Preview Assets.xcassets */; };
+		E5D5CDB028ED3A0A0004BBA6 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5D5CDAF28ED3A0A0004BBA6 /* ViewModel.swift */; };
+		E5D5CDB328ED3A850004BBA6 /* SportsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5D5CDB228ED3A850004BBA6 /* SportsModel.swift */; };
+		E5D5CDB528ED3AB90004BBA6 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5D5CDB428ED3AB90004BBA6 /* Extensions.swift */; };
+		E5D5CDB728ED3DA50004BBA6 /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5D5CDB628ED3DA50004BBA6 /* Network.swift */; };
+		E5D5CDBA28ED48BD0004BBA6 /* ScoresView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5D5CDB928ED48BD0004BBA6 /* ScoresView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E523BCB728ED5803007FD456 /* DynamicTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicTabBar.swift; sourceTree = "<group>"; };
+		E537B51E28F600A500306F7C /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		E537B52028F611B900306F7C /* Dates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dates.swift; sourceTree = "<group>"; };
+		E537B52228F6291100306F7C /* TabsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabsView.swift; sourceTree = "<group>"; };
+		E5A4F64028FF9D340080C714 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		E5CBF3B928FCF1720000F1C7 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		E5CBF3BB28FCF5530000F1C7 /* ViewStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewStack.swift; sourceTree = "<group>"; };
 		E5D5CD9D28ED39810004BBA6 /* Rush.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Rush.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5D5CDA028ED39810004BBA6 /* RushApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RushApp.swift; sourceTree = "<group>"; };
 		E5D5CDA228ED39810004BBA6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E5D5CDA428ED39860004BBA6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E5D5CDA728ED39870004BBA6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E5D5CDAF28ED3A0A0004BBA6 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
+		E5D5CDB228ED3A850004BBA6 /* SportsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportsModel.swift; sourceTree = "<group>"; };
+		E5D5CDB428ED3AB90004BBA6 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		E5D5CDB628ED3DA50004BBA6 /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
+		E5D5CDB928ED48BD0004BBA6 /* ScoresView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoresView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +77,11 @@
 			children = (
 				E5D5CDA028ED39810004BBA6 /* RushApp.swift */,
 				E5D5CDA228ED39810004BBA6 /* ContentView.swift */,
+				E5D5CDB828ED48AC0004BBA6 /* Views */,
+				E5D5CDAE28ED39EE0004BBA6 /* Networking */,
+				E5D5CDB128ED3A590004BBA6 /* Models */,
 				E5D5CDA428ED39860004BBA6 /* Assets.xcassets */,
+				E5D5CDB428ED3AB90004BBA6 /* Extensions.swift */,
 				E5D5CDA628ED39870004BBA6 /* Preview Content */,
 			);
 			path = Rush;
@@ -65,6 +93,38 @@
 				E5D5CDA728ED39870004BBA6 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		E5D5CDAE28ED39EE0004BBA6 /* Networking */ = {
+			isa = PBXGroup;
+			children = (
+				E5D5CDAF28ED3A0A0004BBA6 /* ViewModel.swift */,
+				E5D5CDB628ED3DA50004BBA6 /* Network.swift */,
+			);
+			path = Networking;
+			sourceTree = "<group>";
+		};
+		E5D5CDB128ED3A590004BBA6 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				E5D5CDB228ED3A850004BBA6 /* SportsModel.swift */,
+				E537B52028F611B900306F7C /* Dates.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		E5D5CDB828ED48AC0004BBA6 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				E537B51E28F600A500306F7C /* HomeView.swift */,
+				E5D5CDB928ED48BD0004BBA6 /* ScoresView.swift */,
+				E537B52228F6291100306F7C /* TabsView.swift */,
+				E523BCB728ED5803007FD456 /* DynamicTabBar.swift */,
+				E5CBF3B928FCF1720000F1C7 /* HeaderView.swift */,
+				E5CBF3BB28FCF5530000F1C7 /* ViewStack.swift */,
+				E5A4F64028FF9D340080C714 /* PageView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +197,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E537B51F28F600A500306F7C /* HomeView.swift in Sources */,
+				E537B52128F611B900306F7C /* Dates.swift in Sources */,
+				E5D5CDBA28ED48BD0004BBA6 /* ScoresView.swift in Sources */,
+				E5D5CDB528ED3AB90004BBA6 /* Extensions.swift in Sources */,
+				E537B52328F6291100306F7C /* TabsView.swift in Sources */,
+				E5D5CDB328ED3A850004BBA6 /* SportsModel.swift in Sources */,
+				E5D5CDB728ED3DA50004BBA6 /* Network.swift in Sources */,
+				E5CBF3BA28FCF1720000F1C7 /* HeaderView.swift in Sources */,
 				E5D5CDA328ED39810004BBA6 /* ContentView.swift in Sources */,
+				E5CBF3BC28FCF5530000F1C7 /* ViewStack.swift in Sources */,
+				E5D5CDB028ED3A0A0004BBA6 /* ViewModel.swift in Sources */,
 				E5D5CDA128ED39810004BBA6 /* RushApp.swift in Sources */,
+				E523BCB828ED5803007FD456 /* DynamicTabBar.swift in Sources */,
+				E5A4F64128FF9D340080C714 /* PageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,6 +342,7 @@
 				DEVELOPMENT_TEAM = 77TRP2G374;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Rush/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -299,6 +372,7 @@
 				DEVELOPMENT_TEAM = 77TRP2G374;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Rush/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
