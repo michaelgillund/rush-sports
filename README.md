@@ -1,2 +1,2 @@
-# rush
-Sports Scores IOS Application
+# Rush 
+A Simple Sports App
