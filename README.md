@@ -1,5 +1,4 @@
 # Rush 
 A Simple Sports App
 
-<img src="[https://image-url.type](https://user-images.githubusercontent.com/79627666/196587231-3830473d-eba5-41f9-a402-9c9698124ace.PNG)" width="200" height="600"/>
-
+![IMG_0466](https://user-images.githubusercontent.com/79627666/196587501-ac364faa-471f-411b-b022-9a8fb1bf8d43.PNG | width=200)
